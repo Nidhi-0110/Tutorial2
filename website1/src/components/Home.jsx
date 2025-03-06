@@ -3,7 +3,8 @@ import Table from "./Table"
 function Home() {
     const user = {
         name : "Hello",
-        age : 21
+        age : 21,
+        sub : "maths"
       }
 
       const username = "Hii"
